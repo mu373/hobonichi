@@ -8,7 +8,8 @@
 - [年間カレンダー.pdf](https://github.com/mu373/hobonichi/blob/master/年間カレンダー.pdf)
 
 ##使い方
-1. A4の紙に100%で印刷する
+1. [ファイルをダウンロードする。](https://github.com/mu373/hobonichi/archive/master.zip)
+2. A4の紙に100%で印刷する
 2. 手帳に貼れるようにハサミ・カッターで切る
 3. 糊で貼る（テープのりがおすすめ）
 
