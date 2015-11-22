@@ -1,19 +1,18 @@
 # hobonichi
 
-ほぼ日手帳（カズン）用のテンプレートを作りました。
+ほぼ日手帳（カズン）用のテンプレートを作りました。A5用に作っているので、サイズさえあれば他の手帳やノートでも使用可能です。
 
 ##ファイル構成
 - [プロジェクト.pdf](https://github.com/mu373/hobonichi/blob/master/プロジェクト.pdf) `一年を通してのプロジェクト管理に`
 - [月間目標.pdf](https://github.com/mu373/hobonichi/blob/master/月間目標.pdf)`毎月の目標設定に`
 - [年間カレンダー.pdf](https://github.com/mu373/hobonichi/blob/master/年間カレンダー.pdf)
 
+##使い方
+A4の紙に100%で印刷するとぴったりサイズです。手帳に貼れるようにハサミ・カッターで切って、糊で貼り付けてください。  
+自分はトモエリバー（手帳用）の紙を買って、家のインクジェットプリンターで印刷しました。普通の紙でももちろん使用可能です。
 
-##はじめる
-- [最新版をブラウザーからダウンロード](https://github.com/mu373/nengajou/archive/master.zip)
-- `git clone https://github.com/mu373/nengajou.git`  
-詳細な使い方は[イラレで宛名印刷 ‘nengajou’](http://memo.minami.me/post/105074994460/nengajou)から。
+##備考
+カレンダーの曜日は細心の注意を払って確認しましたが、万が一間違いをみつけた歳にはお問い合わせください。
+あくまでも自分用に作成したものを配布するだけですので、デザインの変更等の要望には答えられません。
 
-##使い方についての質問
-- 使い方について不明な点は[@mu373](http://www.twitter.com/mu373)まで。
-
-ほぼ日公式のカスタマイズページはこちらから。
+ほぼ日公式のカスタマイズページは[こちら](http://www.1101.com/store/techo/2016/download/)から。
