@@ -1,5 +1,5 @@
 # hobonichi
-
+<img src="https://cdn.rawgit.com/mu373/hobonichi/master/thumbnail/hobonichi.gif" width=500px>  
 ほぼ日手帳（カズン）用のテンプレートを作りました。A5用に作っているので、サイズさえあれば他の手帳やノートでも使用可能です。
 
 ##ファイル構成
